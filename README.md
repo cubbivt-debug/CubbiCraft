@@ -8,5 +8,9 @@ For the community: if you want a mod to be added or removed (same for resource p
 
 If there is any issues to the modpack, please repport to the GitHub's official page and make an issue. I will see the issue and fix it.
 
+## 🔗 How to Download?
+
+To downlaod the modpack, please head to the [Modrinth's modpack page](https://modrinth.com/modpack/cubbicraft). It is **recommended** to use the Modrinth launcher for ease-of-use.
+
 Thank you for testing and making it possible. And thanks for the support.
 - CubbiVT
